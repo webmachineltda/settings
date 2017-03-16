@@ -17,12 +17,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Webmachineltda\\Settings\\": "src"
+            "Webmachine\\Settings\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Webmachineltda\\Settings\\": "tests"
+            "Webmachine\\Settings\\": "tests"
         }
     }  
 }
